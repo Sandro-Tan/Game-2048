@@ -14,7 +14,8 @@ But you may continue to play the game after reaching the goal, creating tiles wi
 1. Clone repository
 2. Run
 
-"""
+# Version Information
+
 Author: Sandro Tan
 
 Date of completion: Aug 2019
@@ -25,4 +26,4 @@ Date of latest release: May 2020, v1.0
 
 Current version: 1.0
 
-"""
+
